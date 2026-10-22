@@ -1,5 +1,5 @@
 {
- "spider": "https://fastly.jsdelivr.net/gh/ji12300/tv-source@main/jar/shenxian.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
+ "spider": "https://fastly.jsdelivr.net/gh/ji12300/tv-source@main/shenxian.txt;md5;0840fd78292d4a87dfa48dbebd3e6466",
  "wallpaper": "./bizhi.php",
  "warningText": "神仙影视完全免费，切勿付费购买!",
  "sites": [
