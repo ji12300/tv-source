@@ -2,15 +2,15 @@
   "urls": [
     {
       "name": "XYQ",
-      "url": "https://fastly.jsdelivr.net/gh/ji12300/tv-source@main/xyq.json"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/xyq.json"
     },
     {
       "name": "神仙",
-      "url": "https://fastly.jsdelivr.net/gh/ji12300/tv-source@main/shenxian.json"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/shenxian.json"
     },
     {
       "name": "六六",
-      "url": "https://fastly.jsdelivr.net/gh/ji12300/tv-source@main/liuliu.json"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/liuliu.json"
     }
   ]
 }
