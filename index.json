@@ -1,0 +1,11 @@
+{
+  "urls": [
+    { "name": "高天", "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json" },
+    { "name": "摸鱼", "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json" },
+    { "name": "XYQ",  "url": "https://fastly.jsdelivr.net/gh/debaters6/XYQ@master/0821.json" },
+    { "name": "东篱", "url": "https://fastly.jsdelivr.net/gh/chitue/dongliTV@main/api.json" },
+    { "name": "神仙", "url": "http://xhztv.top/dc/%E7%A5%9E%E4%BB%99/api.json" },
+    { "name": "六六", "url": "https://raw.liucn.cc/box/m.json" },
+    { "name": "俊佬", "url": "http://home.jundie.top:81/top98.json" }
+  ]
+}
