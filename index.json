@@ -5,12 +5,20 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/xyq.json"
     },
     {
-      "name": "神仙",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/shenxian.json"
-    },
-    {
       "name": "六六",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/liuliu.json"
+    },
+    {
+      "name": "高天",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/gaotian.json"
+    },
+    {
+      "name": "东篱",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/dongli.json"
+    },
+    {
+      "name": "摸鱼",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ji12300/tv-source/main/moyu.json"
     }
   ]
 }
